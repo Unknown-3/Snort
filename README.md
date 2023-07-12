@@ -3,6 +3,8 @@ As we know snort is not installed in Kali Linux
 
 We can use this commands on any Linux Distro and install snort or update sources.list
 
+Download the sources.list from the Snort repository
+
 The commands are:-
 
 mv /etc/apt/sources.list /etc/apt/sources.list.bak
