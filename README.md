@@ -44,10 +44,12 @@ mv /etc/apt/sources.list.bak /etc/apt/sources.list
 
 sudo apt update
 
--------------------------------------------------------Sources.list is installed-----------------------------------------------------
-
 Now u can install applications or software
 
-Thank u very much Have fun!
+----------------------------------------------------Thank u very much Have fun!-------------------------------------------------
+
+
+
+
 
 
